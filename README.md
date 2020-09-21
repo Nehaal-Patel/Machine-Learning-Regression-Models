@@ -1,4 +1,4 @@
-# ML-Regression-Model
+# Machine Learning Regression-Model
 This repo covers the basic machine learning regression projects/problems using various techniques through scikit learn library 
 
 # [Project 1 : Boston House Price Prediction ]
